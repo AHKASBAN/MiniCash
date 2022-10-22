@@ -1,0 +1,10 @@
+﻿@font-face {
+    font-family: 'MiniChashFont';
+	src: url('../fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.eot');
+    src: local('../fonts/'), 
+     url('../fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.woff') format('woff'),
+     url('../fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.ttf') format('truetype'),
+     url('../fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.woff2') format('woff'),
+     url('../fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.svg') format('SVG'),
+     url('../fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.otf') format('opentype');
+}
